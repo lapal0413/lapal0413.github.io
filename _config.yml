@@ -97,9 +97,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "interest in computer vision"
   location         : "South Korea SEOUL"
-  email lapal0413@gmail.com            : "lapal0413@gmail.com"
+  email            : "lapal0413@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email: lapal0413@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       #url: "lapal0413@gmail.com"
     - label: "Website"
